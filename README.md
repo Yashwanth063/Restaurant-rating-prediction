@@ -1,7 +1,7 @@
 # Restaurant-Rating-Prediction
 Predicting Restaurant Ratings using Machine Learning Algorithms
 
-Dataset link : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+Dataset link :https://docs.google.com/spreadsheets/d/18RGX1HbDdLNloCCH2Uh3ZAMXwwd8_aeJtqJTbI4PqP4/edit?usp=sharing
 
 Report in IEEE Format : https://drive.google.com/file/d/1VLq1Svyedk-prm9M4bHYtJ1wny0OSkua/view?usp=sharing
 
